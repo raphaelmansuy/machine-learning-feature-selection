@@ -18,12 +18,12 @@ Quick Start (local or Colab)
 
 Dependencies
 
-- `polars`
-- `pandas`
-- `sweetviz`
-- `pyjanitor`
-- `xgboost`
-- `scikit-learn`
+- `polars` — Fast DataFrame library: https://pola.rs/
+- `pandas` — Data analysis library: https://pandas.pydata.org/
+- `sweetviz` — Automated EDA reports: https://github.com/fbdesignpro/sweetviz
+- `pyjanitor` — Clean, chainable data cleaning helpers: https://pyjanitor.readthedocs.io/
+- `xgboost` — Gradient boosting library: https://xgboost.ai/
+- `scikit-learn` — Classic ML tools and selection methods: https://scikit-learn.org/
 
 (You can install them in Colab with the notebook's first cell.)
 
